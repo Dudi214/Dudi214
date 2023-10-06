@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dudi214 😁
+## Bem-vindo(a) ao perfil do Eduardo dias 😁
 
  <div>
    <a href="https://github.com/Dudi214">
@@ -17,7 +17,7 @@
  
 
 <!--
-**Dudi214/dudi214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eduardo Dias/dudi214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
