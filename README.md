@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Eduardo dias 😁
+## Bem-vindo(a) ao perfil do Dudi214 😁
 
  <div>
    <a href="https://github.com/Dudi214">
