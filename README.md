@@ -13,12 +13,26 @@
 </div>
  
 <br>
- <div>
  
 
-<!--
-**dudi214/dudi214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+  
+   </div>
+ <div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+   </div>
+    
+  
 
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,4 +43,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+
+
+**dudi214/dudi214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
